@@ -1,0 +1,22 @@
+{
+  "name": "ini-file-parser",
+  "version": "1.0.0",
+  "description": "A simple .ini file parser in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muneeb4dev/ini-file-parser.git"
+  },
+  "author": "Muneeb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muneeb4dev/ini-file-parser/issues"
+  },
+  "homepage": "https://github.com/muneeb4dev/ini-file-parser#readme",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
